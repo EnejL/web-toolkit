@@ -1,0 +1,12 @@
+.buttonload {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    margin-top: 8px;
+    font-size: 16px
+}
+
+.fa {
+    margin: 0px 5px;
+}
